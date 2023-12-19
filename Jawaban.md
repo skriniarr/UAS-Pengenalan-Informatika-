@@ -132,11 +132,14 @@ https://www.youtube.com/live/JejMi63LCio?si=46QoStDcboMWjRni
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 Robot Developer
+
 Menganai alasan nya karena saya tertarik pada hardware dan saya juga suka mengotak atik apapun itu yang berhububngan dengan mesin
 Swlain itu juga Robot dapat digunakan dalam berbagai bidang, mulai dari otomotif hingga perawatan kesehatan, manufaktur, 
 eksplorasi ruang angkasa, dan lebih banyak lagi. Ini memberi saya kesempatan untuk belajar lebih luas lagi 
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+![Screenshot 2023-12-19 235826](https://github.com/skriniarr/UAS-Pengenalan-Informatika-/assets/148933581/79556d8b-dd53-447c-ba98-cff4e6ea58d3)
+
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
