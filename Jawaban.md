@@ -1,8 +1,14 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+Computational Thinking (CT) adalah kemampuan untuk memecahkan masalah, merancang sistem, dan memahami perilaku manusia dengan menggunakan konsep fundamental dari ilmu komputer. Konsep dasar CT meliputi dekomposisi, pola, abstraksi, dan algoritma. Proses CT membantu dalam pemecahan masalah lintas disiplin ilmu dan dapat diterapkan dalam berbagai konteks, termasuk dalam pembelajaran akademik dan pengembangan keahlian komputer. Internalisasi CT melibatkan penerimaan dan penerapan konsep-konsep CT ke dalam pemikiran dan tindakan sehari hari seseorang, sehingga CT menjadi bagian integral dari cara seseorang memahami dan menyelesaikan masalah.
+
+Dalam konteks pembelajaran, internalisasi CT dapat ditingkatkan melalui strategi pembelajaran yang memfokuskan pada pengembangan kemampuan pemecahan masalah, pemodelan, dan penalaran komputasional siswa. Hal ini dapat membantu siswa dalam meningkatkan capaian belajar kognitif mereka, baik dalam konteks pembelajaran komputer maupun dalam mata pelajaran lain, seperti akhlak atau sejarah.
+
+Dengan demikian, untuk menginternalisasi CT, penting untuk memperkenalkan konsep-konsep CT secara sistematis, melatih siswa dalam penerapan konsep konsep tersebut dalam pemecahan masalah, dan mengaitkan penerapan CT dalam berbagai konteks pembelajaran. Melalui pendekatan ini, diharapkan siswa dapat mengembangkan pemahaman yang mendalam dan kemampuan yang kuat dalam menggunakan CT untuk memecahkan masalah dalam berbagai situasi.
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+chatgpt
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
@@ -19,6 +25,7 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+chatgpt
 
 Referensi [1](https://scratch.mit.edu/)
 
@@ -101,10 +108,16 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+![Screenshot 2023-12-19 164040](https://github.com/skriniarr/UAS-Pengenalan-Informatika-/assets/148933581/ca47f64e-840b-4da8-a5aa-d4bd831c362d)
+
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+![Screenshot 2023-12-19 170650](https://github.com/skriniarr/UAS-Pengenalan-Informatika-/assets/148933581/6d932cc2-a5b8-4fa9-b45b-96365f88ec8e)
+
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+![63c43cd2-fdc6-4073-ae34-a6e6f1c3594b](https://github.com/skriniarr/UAS-Pengenalan-Informatika-/assets/148933581/f5fef001-380e-4412-9e01-e2965ac3c884)
+
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
@@ -115,8 +128,13 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+https://www.youtube.com/live/JejMi63LCio?si=46QoStDcboMWjRni
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+Robot Developer
+Menganai alasan nya karena saya tertarik pada hardware dan saya juga suka mengotak atik apapun itu yang berhububngan dengan mesin
+Swlain itu juga Robot dapat digunakan dalam berbagai bidang, mulai dari otomotif hingga perawatan kesehatan, manufaktur, 
+eksplorasi ruang angkasa, dan lebih banyak lagi. Ini memberi saya kesempatan untuk belajar lebih luas lagi 
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
@@ -135,5 +153,6 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+D
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
