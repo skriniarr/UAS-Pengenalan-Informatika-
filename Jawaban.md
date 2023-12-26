@@ -8,7 +8,22 @@ Dalam konteks pembelajaran, internalisasi CT dapat ditingkatkan melalui strategi
 Dengan demikian, untuk menginternalisasi CT, penting untuk memperkenalkan konsep-konsep CT secara sistematis, melatih siswa dalam penerapan konsep konsep tersebut dalam pemecahan masalah, dan mengaitkan penerapan CT dalam berbagai konteks pembelajaran. Melalui pendekatan ini, diharapkan siswa dapat mengembangkan pemahaman yang mendalam dan kemampuan yang kuat dalam menggunakan CT untuk memecahkan masalah dalam berbagai situasi.
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-chatgpt
+PC (Personal Computer)
+Komputer pribadi atau PC adalah komputer yang biasa kita gunakan dalam kehidupan sehari hari, komputer ini dirancang untuk digunakan oleh satu orang secara pribadi. PC bisa berupa desktop, laptop, netbook, dll. PC biasanya digunakan untuk keperluan produktivitas seperti mengerjakan tugas, internet, game, dll.
+
+Komputer Mainframe
+Mainframe adalah komputer yang sangat kuat dan cepat yang biasanya digunakan oleh perusahaan besar atau organisasi untuk menjalankan aplikasi penting seperti pemrosesan data dalam jumlah besar. Mainframe mampu memproses ribuan transaksi per detik.
+
+Komputer Server
+Server adalah komputer yang menyediakan sumber daya bagi komputer lain di jaringan. Server biasanya digunakan untuk penyimpanan data, hosting website, email server, dll. Ada berbagai jenis server seperti file server, database server, web server, dll.
+
+Komputer Super
+Komputer super atau supercomputer adalah komputer dengan kemampuan komputasi yang sangat cepat dan kuat. Komputer super digunakan untuk menjalankan perhitungan dan simulasi kompleks seperti prediksi cuaca, penelitian ilmiah, dll.
+
+Komputer Kuantum
+Komputer kuantum memanfaatkan efek kuantum seperti superposisi dan entanglement untuk melakukan perhitungan. Komputer kuantum diyakini akan jauh lebih cepat dibandingkan komputer digital konvensional. Saat ini pengembangan komputer kuantum masih terus dilakukan. Dalam komputer kuantum, unit dasar memori adalah bit kuantum atau qubit. Qubit dibuat menggunakan sistem fisik, seperti putaran elektron atau orientasi foton. Komputer kuantum adalah mesin yang menggunakan sifat fisika kuantum untuk menyimpan data dan melakukan perhitungan.
+
+
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
