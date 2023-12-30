@@ -1,4 +1,4 @@
-# Hello Informatics !
+[data.json](https://github.com/skriniarr/UAS-Pengenalan-Informatika-/files/13796716/data.json)# Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 Computational Thinking (CT) adalah kemampuan untuk memecahkan masalah, merancang sistem, dan memahami perilaku manusia dengan menggunakan konsep fundamental dari ilmu komputer. Konsep dasar CT meliputi dekomposisi, pola, abstraksi, dan algoritma. Proses CT membantu dalam pemecahan masalah lintas disiplin ilmu dan dapat diterapkan dalam berbagai konteks, termasuk dalam pembelajaran akademik dan pengembangan keahlian komputer. Internalisasi CT melibatkan penerimaan dan penerapan konsep-konsep CT ke dalam pemikiran dan tindakan sehari hari seseorang, sehingga CT menjadi bagian integral dari cara seseorang memahami dan menyelesaikan masalah.
@@ -71,6 +71,25 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+Berikut contohnya:
+https://www.contoh.com/p/artikel/belajar-pemrograman.html?utm_source=google&utm_medium=cpc
+
+1. https://
+Menunjukkan protokol yang digunakan. Dalam contoh ini menggunakan Hypertext Transfer Protocol Secure (HTTPS) yang merupakan versi aman dari HTTP
+
+2. www
+Merupakan subdomain yang mengarah ke server web. www adalah subdomain paling umum
+
+3. contoh.com
+Domain name dari website. Ini adalah alamat unik yang mengarah ke server website ini
+
+4. /p/artikel/
+Path atau alamat direktori dan file pada server website
+
+5. belajar-pemrograman.html
+Nama file yang diminta oleh URL. Di sini file HTML bernama belajar-pemrograman.html
+
+?utm_source=google&utm_medium=cpc
 
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
@@ -90,9 +109,9 @@ Referensi tutorial
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+![Screenshot 2023-12-30 080729](https://github.com/skriniarr/UAS-Pengenalan-Informatika-/assets/148933581/7694588f-1d84-4498-bffd-c9fa19ae5bba)
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
